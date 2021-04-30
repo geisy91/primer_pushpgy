@@ -1,0 +1,2 @@
+consle.log('Hola Mundo!!')
+alert('Hola mundo!');
